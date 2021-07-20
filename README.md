@@ -1,6 +1,7 @@
 ## Hello You! 👋
 
-Bienvenue dans ma cachette 🏡! C'est la que je garde tout mon travail et que je participe a celui de la communauté (de l'anneau 💍? Maybe).
+Bienvenue dans ma cachette 🏡! </br>
+C'est la que je garde tout mon travail et que je participe a celui de la communauté (de l'anneau 💍? Maybe).
 
 ---
 
@@ -35,6 +36,7 @@ Quand j'ai besoin de me divertir, j'ai 3 options !
 -Le 7 ème art ! 🎥 </br>
 -Les jeux vidéos ! 🎮🎮</br>
 -Et quand il faut ce défouler... L'airsoft entre potes ! 
+</br>
 <img src="200.gif">
 
 <!--
