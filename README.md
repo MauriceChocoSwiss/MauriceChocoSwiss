@@ -11,9 +11,9 @@ Alors pour cela j'utilise des outils géniaux comme : 🛠
 
 <!-- ![Visual Studio Code](/vs_code.png) -->
 ![Visual Studio 2019](/vs_studio.png)
-![WebStorm](/WebStorm.png)
+![WebStorm](/WebStorm2.png)
 ![SqlServer](/sqlserver.png)
-![Postman](/postman.png)
+![Postman](/postman2.png)
 </br>
 
  Et des supers technos comme : 💾
