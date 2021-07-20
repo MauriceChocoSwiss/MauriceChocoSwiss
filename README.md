@@ -13,7 +13,6 @@ Alors pour cela j'utilise des outils géniaux comme : 🛠
 ![WebStorm](/WebStorm.png)
 ![SqlServer](/sqlserver.png)
 ![Postman](/postman.png)
-<img src="./brain.svg" style="height:36px;" alt="My Brain">
 </br>
 
  Et des supers technos comme : 💾
