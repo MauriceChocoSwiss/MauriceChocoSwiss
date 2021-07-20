@@ -5,11 +5,9 @@ This is where I keep all my work and participate in that of the community (Of th
 
 ---
 
-I'm a creator 👨‍🔧 and code fan 📝 ! Seeing my ideas come true, dematerialized or not, is a huge satisfaction and if it can help it is even better!
+I'm a creator 👨‍🔧 and code fan 📝 ! Seeing my ideas come true, dematerialized or not, is a huge satisfaction  and if it can help it is even better ! ✨🎉
 
 For that, i used genius tools like : 🔧
-
-<!-- ![Visual Studio Code](/vs_code.png) -->
 
 ![Visual Studio 2019](/vs_studio.png)
 ![WebStorm](/WebStorm2.png)
@@ -24,7 +22,7 @@ And great tech like : 💾
 ![GitHub Logo](/typescript.png)
 ![GitHub Logo](/angular.png)(a little ^^)
 
-And of course, all classics !
+And of course, all classics !📇
 
 ![GitHub Logo](/html.png)
 ![GitHub Logo](/css.png)
@@ -38,7 +36,7 @@ And when i need to change my mind, I've three options:
 
 -The 7th art ! 🎥 </br>
 -Video games ! 🎮🎮</br>
--And when you have to let off steam ... Airsoft with friends !
+-And when you have to let off steam ... Airsoft with friends ! 🔫🔫🔫
 </br>
 <img src="200.gif">
 
