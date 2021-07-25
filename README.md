@@ -36,7 +36,7 @@ And when i need to change my mind, I've three options:
 
 -The 7th art ! 🎥 </br>
 -Video games ! 🎮🎮</br>
--And when you have to let off steam ... Airsoft with friends ! 🔫🔫🔫
+-And when I have to let off steam ... Airsoft with friends ! 🔫🔫🔫
 </br>
 <img src="200.gif">
 
