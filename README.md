@@ -20,13 +20,13 @@ And great tech like : 💾
 ![CSharp](/csharp.png)
 ![GitHub Logo](/vuejs.png)
 ![GitHub Logo](/typescript.png)
-![GitHub Logo](/angular.png)(a little ^^)
+![GitHub Logo](/angular.png)
 
 And of course, all classics !📇
 
 ![GitHub Logo](/html.png)
 ![GitHub Logo](/css.png)
-![GitHub Logo](/js.png)(Base ^^)
+![GitHub Logo](/js.png)
 
 ---
 
